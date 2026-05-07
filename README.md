@@ -1,6 +1,3 @@
-# Data-Analitycs-Python-1C2026
-Proyecto Trabajo de Finalizacion de curso
-
 # 📊 Data Analytics: Marketing, Clientes & Ventas 🚀
 ### Proyecto Trabajo de Finalización de curso - 1C 2026
 
